@@ -14,10 +14,10 @@ const Card = ({
 
   return (
     <div className="border h-full  flex flex-col p-1">
-      <div className="h-2/3 w-full bg-green-100 border border-gray-200 overflow-hidden">
+      <div className="h-2/3 w-full  border-gray-200 overflow-hidden">
         <div className="h-full w-full relative sm:relative">
           <img
-            className="block w-full h-full object-cover sm:absolute"
+            className="block w-full h-full object-cover sm:absolute lg:hover:scale-110 transition-transform ease-in-out duration-500"
             src={imageSrc}
             alt={name}
           />
