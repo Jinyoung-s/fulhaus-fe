@@ -30,9 +30,6 @@ When you open [http://localhost:3000] with a browser, the following screen is ex
 ![image](https://user-images.githubusercontent.com/98030034/225773336-68748cb9-0cd3-481e-8cfc-0462186f5a3d.png)
 
 
-## Please feel free to contact me if you have any other questions.
-## THANK YOU
-
 Jinyoung So
 sojinyoung23@gmail.com
 519 672 3760
